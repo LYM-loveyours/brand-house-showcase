@@ -1,0 +1,1 @@
+import Link from "next/link";export default function Page(){return <section className="section"><div className="eyebrow">404 / OUTSIDE THE INDEX</div><h1 className="page-title">A different<br/>direction<span>.</span></h1><p>This page could not be found.</p><Link className="button" href="/">Back to the house ↗</Link></section>}

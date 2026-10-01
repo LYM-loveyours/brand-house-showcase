@@ -1,0 +1,38 @@
+[
+  {
+    "file": "public/images/textile.jpg",
+    "sha256": "29e1dce486482ea21c50c9376f5de57ae49ac85653b4927cf9a0d9d1522f713b",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  },
+  {
+    "file": "public/images/movement.jpg",
+    "sha256": "2cf73b3d4a0a5e73039d4e87bf530861dd9243125a6e94d37a5e4d23665d211d",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  },
+  {
+    "file": "public/images/leisure.jpg",
+    "sha256": "d03d787c3e98314724bdc4bb0afdb4b37256bbe4e1985aa2a42f00f4384bbdeb",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  },
+  {
+    "file": "public/images/street.jpg",
+    "sha256": "3df35cf14a4b50e18a1b638f4cfff8171bd176c47fc12357e3737396332255b3",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  },
+  {
+    "file": "public/images/design.jpg",
+    "sha256": "a7004d4205e7fe17119c8570e36e2c19d0f08b1e52c5e87072f72170584014d0",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  },
+  {
+    "file": "public/images/material.jpg",
+    "sha256": "f3854e354649f8cd768c58fb630beed0d5945304519d801dc0763ace42ed1ddc",
+    "origin": "Existing LYM-generated neutral atmosphere; original asset ledger verified 1 October 2026",
+    "licence": "All rights reserved; included for viewing this design study only."
+  }
+]

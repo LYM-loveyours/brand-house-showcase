@@ -1,0 +1,27 @@
+{
+  "name": "forme-house-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 9404",
+    "build": "next build",
+    "typecheck": "tsc --noEmit",
+    "test": "playwright test",
+    "preview": "python3 -m http.server 9404 --bind 127.0.0.1 --directory out",
+    "build:pages": "NEXT_PUBLIC_BASE_PATH=/brand-house-showcase next build",
+    "test:pages": "node scripts/smoke-pages.mjs"
+  },
+  "dependencies": {
+    "next": "16.3.8",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@playwright/test": "1.63.0",
+    "@axe-core/playwright": "4.13.0"
+  }
+}
