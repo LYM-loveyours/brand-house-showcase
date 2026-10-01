@@ -1,5 +1,8 @@
 # Forme House
 
+**[Explore FORME HOUSE live](https://lym-loveyours.github.io/brand-house-showcase/)**
+
+
 A fictional brand-house experience by **Love Yours Media**. Adapted from prior studio work, this study explores how a confident editorial system can support five distinct identities.
 
 ![Forme House desktop preview](docs/screenshots/home-desktop.png)
