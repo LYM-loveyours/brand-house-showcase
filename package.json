@@ -21,7 +21,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "@playwright/test": "1.63.0",
+    "@playwright/test": "1.64.0",
     "@axe-core/playwright": "4.13.0"
   }
 }
